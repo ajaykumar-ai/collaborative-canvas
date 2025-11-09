@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Collaborative Canvas</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="topbar">
+    <h1>Collaborative Canvas</h1>
+    <label>Room: <input id="room-input" value="main" style="width:140px"></label>
+    <button id="join-room-btn">Join</button>
+    <label>Tool:
+      <select id="tool-select">
+        <option value="brush">Brush</option>
+        <option value="eraser">Eraser</option>
+        <option value="rect">Rectangle</option>
+        <option value="text">Text</option>
+        <option value="image">Image</option>
+      </select>
+    </label>
+    <label>Color: <input id="color-picker" type="color" value="#000000"></label>
+    <label>Size: <input id="size-range" type="range" min="1" max="40" value="4"></label>
+
+    <div style="margin-left:auto;display:flex;gap:8px;align-items:center">
+      <button id="undo-btn">Undo</button>
+      <button id="redo-btn">Redo</button>
+      <button id="save-btn">Save</button>
+      <button id="load-btn">Load</button>
+      <span id="latency">Latency: —</span>
+      <span id="fps">FPS: —</span>
+      <span id="oprate">Ops/s: —</span>
+    </div>
+  </div>
+
+  <div style="display:flex">
+    <aside class="left-panel">
+      <h3>Online</h3>
+      <ul id="users"><li style="color:#999">No users</li></ul>
+      <hr/>
+      <h3>Instructions</h3>
+      <ol>
+        <li>Pick a room name and click Join.</li>
+        <li>Open another tab to simulate another user.</li>
+        <li>Press Save to persist server-side; Load reloads persisted state.</li>
+      </ol>
+    </aside>
+
+    <div id="canvas-wrap">
+      <canvas id="draw-canvas"></canvas>
+      <input id="text-input" placeholder="Type text then click canvas" style="display:none;margin-top:8px;">
+      <input id="image-file" type="file" accept="image/*" style="display:none;margin-top:8px;">
+    </div>
+  </div>
+
+  <!-- socket.io client -->
+  <script src="/socket.io/socket.io.js"></script>
+
+  <!-- local wrappers / app -->
+  <script src="websocket.js"></script>
+  <script src="canvas.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

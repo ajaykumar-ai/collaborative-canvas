@@ -1,0 +1,4038 @@
+[
+  {
+    "id": "op_tkkzixhz",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 321,
+          "y": 153
+        },
+        {
+          "x": 325,
+          "y": 142
+        },
+        {
+          "x": 340,
+          "y": 118
+        },
+        {
+          "x": 363,
+          "y": 78
+        },
+        {
+          "x": 389,
+          "y": 41
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359137
+  },
+  {
+    "id": "op_kqlvi6rw",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 399,
+          "y": 25
+        },
+        {
+          "x": 406,
+          "y": 18
+        },
+        {
+          "x": 410,
+          "y": 13
+        },
+        {
+          "x": 414,
+          "y": 9
+        },
+        {
+          "x": 415,
+          "y": 8
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359218
+  },
+  {
+    "id": "op_rasb9p07",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 416,
+          "y": 8
+        },
+        {
+          "x": 418,
+          "y": 8
+        },
+        {
+          "x": 422,
+          "y": 11
+        },
+        {
+          "x": 427,
+          "y": 28
+        },
+        {
+          "x": 433,
+          "y": 75
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359303
+  },
+  {
+    "id": "op_nxek4vz1",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 434,
+          "y": 104
+        },
+        {
+          "x": 434,
+          "y": 130
+        },
+        {
+          "x": 434,
+          "y": 173
+        },
+        {
+          "x": 435,
+          "y": 185
+        },
+        {
+          "x": 438,
+          "y": 217
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359385
+  },
+  {
+    "id": "op_mrztkfx4",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 236
+        },
+        {
+          "x": 442,
+          "y": 252
+        },
+        {
+          "x": 444,
+          "y": 266
+        },
+        {
+          "x": 444,
+          "y": 271
+        },
+        {
+          "x": 444,
+          "y": 275
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359468
+  },
+  {
+    "id": "op_1e04oyqe",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 444,
+          "y": 278
+        },
+        {
+          "x": 446,
+          "y": 277
+        },
+        {
+          "x": 457,
+          "y": 256
+        },
+        {
+          "x": 466,
+          "y": 238
+        },
+        {
+          "x": 478,
+          "y": 221
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359585
+  },
+  {
+    "id": "op_grmopu5n",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 482,
+          "y": 215
+        },
+        {
+          "x": 487,
+          "y": 208
+        },
+        {
+          "x": 490,
+          "y": 205
+        },
+        {
+          "x": 490,
+          "y": 202
+        },
+        {
+          "x": 493,
+          "y": 199
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359668
+  },
+  {
+    "id": "op_2a8ypn6z",
+    "type": "stroke",
+    "userId": "6_Iqb6edydnZmnEOAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 493,
+          "y": 198
+        },
+        {
+          "x": 494,
+          "y": 196
+        },
+        {
+          "x": 494,
+          "y": 194
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580359706
+  },
+  {
+    "id": "op_dgs4n6vl",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 202,
+          "y": 146
+        },
+        {
+          "x": 204,
+          "y": 130
+        },
+        {
+          "x": 222,
+          "y": 62
+        },
+        {
+          "x": 237,
+          "y": 10
+        },
+        {
+          "x": 244,
+          "y": -14
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378204
+  },
+  {
+    "id": "op_2xpppujx",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 249,
+          "y": -29
+        },
+        {
+          "x": 251,
+          "y": -38
+        },
+        {
+          "x": 252,
+          "y": -39
+        },
+        {
+          "x": 252,
+          "y": -41
+        },
+        {
+          "x": 252,
+          "y": -42
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378321
+  },
+  {
+    "id": "op_7e1m6nxg",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 252,
+          "y": -41
+        },
+        {
+          "x": 252,
+          "y": -40
+        },
+        {
+          "x": 254,
+          "y": -35
+        },
+        {
+          "x": 262,
+          "y": -8
+        },
+        {
+          "x": 274,
+          "y": 30
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378405
+  },
+  {
+    "id": "op_4tpkpw3u",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 286,
+          "y": 61
+        },
+        {
+          "x": 293,
+          "y": 81
+        },
+        {
+          "x": 299,
+          "y": 94
+        },
+        {
+          "x": 306,
+          "y": 109
+        },
+        {
+          "x": 308,
+          "y": 115
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378487
+  },
+  {
+    "id": "op_aqo62uw1",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 311,
+          "y": 121
+        },
+        {
+          "x": 314,
+          "y": 126
+        },
+        {
+          "x": 315,
+          "y": 130
+        },
+        {
+          "x": 316,
+          "y": 132
+        },
+        {
+          "x": 317,
+          "y": 133
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378571
+  },
+  {
+    "id": "op_eyjvmc0d",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 318,
+          "y": 135
+        },
+        {
+          "x": 318,
+          "y": 136
+        },
+        {
+          "x": 318,
+          "y": 137
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580378650
+  },
+  {
+    "id": "op_2xtv4thu",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 223,
+          "y": 98
+        },
+        {
+          "x": 233,
+          "y": 97
+        },
+        {
+          "x": 248,
+          "y": 92
+        },
+        {
+          "x": 290,
+          "y": 79
+        },
+        {
+          "x": 306,
+          "y": 75
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580379570
+  },
+  {
+    "id": "op_y1zmrv3p",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 317,
+          "y": 72
+        },
+        {
+          "x": 322,
+          "y": 70
+        },
+        {
+          "x": 325,
+          "y": 70
+        },
+        {
+          "x": 326,
+          "y": 70
+        },
+        {
+          "x": 327,
+          "y": 70
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580379653
+  },
+  {
+    "id": "op_h616bgny",
+    "type": "stroke",
+    "userId": "t98RgSyR2mjTxWitAAAL",
+    "payload": {
+      "points": [
+        {
+          "x": 328,
+          "y": 70
+        },
+        {
+          "x": 329,
+          "y": 70
+        },
+        {
+          "x": 329,
+          "y": 69
+        }
+      ],
+      "color": "#000",
+      "width": 4
+    },
+    "serverTs": 1762580379688
+  },
+  {
+    "id": "op_gaizfm98",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 201,
+          "y": 147
+        },
+        {
+          "x": 201,
+          "y": 142
+        },
+        {
+          "x": 206,
+          "y": 120
+        },
+        {
+          "x": 210,
+          "y": 105
+        },
+        {
+          "x": 212,
+          "y": 96
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535305
+  },
+  {
+    "id": "op_bxjba6rd",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 214,
+          "y": 86
+        },
+        {
+          "x": 217,
+          "y": 80
+        },
+        {
+          "x": 218,
+          "y": 74
+        },
+        {
+          "x": 221,
+          "y": 67
+        },
+        {
+          "x": 222,
+          "y": 62
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535390
+  },
+  {
+    "id": "op_p5luv9xv",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 226,
+          "y": 55
+        },
+        {
+          "x": 227,
+          "y": 51
+        },
+        {
+          "x": 230,
+          "y": 46
+        },
+        {
+          "x": 232,
+          "y": 42
+        },
+        {
+          "x": 234,
+          "y": 39
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535471
+  },
+  {
+    "id": "op_b6xt4bp6",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 235,
+          "y": 34
+        },
+        {
+          "x": 237,
+          "y": 33
+        },
+        {
+          "x": 238,
+          "y": 30
+        },
+        {
+          "x": 239,
+          "y": 26
+        },
+        {
+          "x": 241,
+          "y": 21
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535555
+  },
+  {
+    "id": "op_pn0y2lw7",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 242,
+          "y": 18
+        },
+        {
+          "x": 242,
+          "y": 14
+        },
+        {
+          "x": 243,
+          "y": 12
+        },
+        {
+          "x": 244,
+          "y": 8
+        },
+        {
+          "x": 244,
+          "y": 6
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535638
+  },
+  {
+    "id": "op_ptb6gl79",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 245,
+          "y": 3
+        },
+        {
+          "x": 246,
+          "y": 2
+        },
+        {
+          "x": 246,
+          "y": 0
+        },
+        {
+          "x": 247,
+          "y": -2
+        },
+        {
+          "x": 247,
+          "y": -2
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582535739
+  },
+  {
+    "id": "op_t408gnb6",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 247,
+          "y": -3
+        },
+        {
+          "x": 247,
+          "y": -4
+        },
+        {
+          "x": 252,
+          "y": -2
+        },
+        {
+          "x": 255,
+          "y": -1
+        },
+        {
+          "x": 259,
+          "y": 0
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536056
+  },
+  {
+    "id": "op_el8l06nz",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 263,
+          "y": 2
+        },
+        {
+          "x": 265,
+          "y": 3
+        },
+        {
+          "x": 267,
+          "y": 5
+        },
+        {
+          "x": 269,
+          "y": 6
+        },
+        {
+          "x": 270,
+          "y": 8
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536138
+  },
+  {
+    "id": "op_cr85if00",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 271,
+          "y": 10
+        },
+        {
+          "x": 272,
+          "y": 11
+        },
+        {
+          "x": 274,
+          "y": 13
+        },
+        {
+          "x": 274,
+          "y": 15
+        },
+        {
+          "x": 276,
+          "y": 19
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536222
+  },
+  {
+    "id": "op_omg6nv5u",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 277,
+          "y": 23
+        },
+        {
+          "x": 278,
+          "y": 26
+        },
+        {
+          "x": 279,
+          "y": 32
+        },
+        {
+          "x": 280,
+          "y": 37
+        },
+        {
+          "x": 281,
+          "y": 43
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536306
+  },
+  {
+    "id": "op_quf5i4t5",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 282,
+          "y": 48
+        },
+        {
+          "x": 282,
+          "y": 54
+        },
+        {
+          "x": 283,
+          "y": 58
+        },
+        {
+          "x": 284,
+          "y": 61
+        },
+        {
+          "x": 284,
+          "y": 66
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536389
+  },
+  {
+    "id": "op_jhmfaxf6",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 285,
+          "y": 68
+        },
+        {
+          "x": 287,
+          "y": 71
+        },
+        {
+          "x": 287,
+          "y": 74
+        },
+        {
+          "x": 290,
+          "y": 78
+        },
+        {
+          "x": 291,
+          "y": 81
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536471
+  },
+  {
+    "id": "op_p06w517v",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 293,
+          "y": 84
+        },
+        {
+          "x": 297,
+          "y": 90
+        },
+        {
+          "x": 300,
+          "y": 94
+        },
+        {
+          "x": 303,
+          "y": 101
+        },
+        {
+          "x": 307,
+          "y": 108
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536555
+  },
+  {
+    "id": "op_enmliho8",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 309,
+          "y": 110
+        },
+        {
+          "x": 310,
+          "y": 114
+        },
+        {
+          "x": 313,
+          "y": 117
+        },
+        {
+          "x": 314,
+          "y": 118
+        },
+        {
+          "x": 317,
+          "y": 122
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536638
+  },
+  {
+    "id": "op_oao9tsr0",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 318,
+          "y": 123
+        },
+        {
+          "x": 319,
+          "y": 125
+        },
+        {
+          "x": 321,
+          "y": 125
+        },
+        {
+          "x": 322,
+          "y": 127
+        },
+        {
+          "x": 323,
+          "y": 127
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536721
+  },
+  {
+    "id": "op_lv82drju",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 324,
+          "y": 129
+        },
+        {
+          "x": 326,
+          "y": 130
+        },
+        {
+          "x": 326,
+          "y": 131
+        },
+        {
+          "x": 327,
+          "y": 134
+        },
+        {
+          "x": 329,
+          "y": 134
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536804
+  },
+  {
+    "id": "op_81k92mqr",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 330,
+          "y": 135
+        },
+        {
+          "x": 330,
+          "y": 136
+        },
+        {
+          "x": 331,
+          "y": 136
+        },
+        {
+          "x": 331,
+          "y": 137
+        },
+        {
+          "x": 333,
+          "y": 137
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536888
+  },
+  {
+    "id": "op_fnfvcwjf",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 333,
+          "y": 136
+        },
+        {
+          "x": 334,
+          "y": 134
+        },
+        {
+          "x": 335,
+          "y": 133
+        },
+        {
+          "x": 341,
+          "y": 124
+        },
+        {
+          "x": 348,
+          "y": 112
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582536971
+  },
+  {
+    "id": "op_zidszdz2",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 356,
+          "y": 95
+        },
+        {
+          "x": 367,
+          "y": 74
+        },
+        {
+          "x": 374,
+          "y": 64
+        },
+        {
+          "x": 382,
+          "y": 49
+        },
+        {
+          "x": 386,
+          "y": 43
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537054
+  },
+  {
+    "id": "op_to8rbyja",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 391,
+          "y": 34
+        },
+        {
+          "x": 394,
+          "y": 29
+        },
+        {
+          "x": 397,
+          "y": 25
+        },
+        {
+          "x": 401,
+          "y": 19
+        },
+        {
+          "x": 402,
+          "y": 16
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537138
+  },
+  {
+    "id": "op_ayqyhqbk",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 406,
+          "y": 12
+        },
+        {
+          "x": 409,
+          "y": 7
+        },
+        {
+          "x": 410,
+          "y": 4
+        },
+        {
+          "x": 414,
+          "y": 1
+        },
+        {
+          "x": 414,
+          "y": -1
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537221
+  },
+  {
+    "id": "op_67gg68a0",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 417,
+          "y": -4
+        },
+        {
+          "x": 418,
+          "y": -6
+        },
+        {
+          "x": 420,
+          "y": -7
+        },
+        {
+          "x": 422,
+          "y": -10
+        },
+        {
+          "x": 422,
+          "y": -10
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537304
+  },
+  {
+    "id": "op_jbcnzwco",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 423,
+          "y": -11
+        },
+        {
+          "x": 424,
+          "y": -11
+        },
+        {
+          "x": 424,
+          "y": -10
+        },
+        {
+          "x": 424,
+          "y": -9
+        },
+        {
+          "x": 424,
+          "y": -7
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537421
+  },
+  {
+    "id": "op_56ck3c67",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 424,
+          "y": -5
+        },
+        {
+          "x": 426,
+          "y": 2
+        },
+        {
+          "x": 426,
+          "y": 10
+        },
+        {
+          "x": 426,
+          "y": 27
+        },
+        {
+          "x": 426,
+          "y": 38
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537504
+  },
+  {
+    "id": "op_3b350nzq",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 426,
+          "y": 50
+        },
+        {
+          "x": 426,
+          "y": 56
+        },
+        {
+          "x": 426,
+          "y": 59
+        },
+        {
+          "x": 426,
+          "y": 65
+        },
+        {
+          "x": 426,
+          "y": 69
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537587
+  },
+  {
+    "id": "op_u3p0nabk",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 426,
+          "y": 73
+        },
+        {
+          "x": 426,
+          "y": 76
+        },
+        {
+          "x": 426,
+          "y": 80
+        },
+        {
+          "x": 426,
+          "y": 84
+        },
+        {
+          "x": 426,
+          "y": 87
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537670
+  },
+  {
+    "id": "op_pyidp0zg",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 426,
+          "y": 91
+        },
+        {
+          "x": 426,
+          "y": 98
+        },
+        {
+          "x": 426,
+          "y": 102
+        },
+        {
+          "x": 426,
+          "y": 109
+        },
+        {
+          "x": 426,
+          "y": 116
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537754
+  },
+  {
+    "id": "op_jst9prqu",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 427,
+          "y": 126
+        },
+        {
+          "x": 428,
+          "y": 134
+        },
+        {
+          "x": 430,
+          "y": 144
+        },
+        {
+          "x": 432,
+          "y": 149
+        },
+        {
+          "x": 433,
+          "y": 154
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537837
+  },
+  {
+    "id": "op_ikp56yey",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 435,
+          "y": 162
+        },
+        {
+          "x": 437,
+          "y": 168
+        },
+        {
+          "x": 438,
+          "y": 176
+        },
+        {
+          "x": 439,
+          "y": 181
+        },
+        {
+          "x": 440,
+          "y": 185
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582537920
+  },
+  {
+    "id": "op_bmwdsd6u",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 190
+        },
+        {
+          "x": 440,
+          "y": 191
+        },
+        {
+          "x": 440,
+          "y": 195
+        },
+        {
+          "x": 440,
+          "y": 198
+        },
+        {
+          "x": 440,
+          "y": 200
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538004
+  },
+  {
+    "id": "op_x4a31cle",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 202
+        },
+        {
+          "x": 440,
+          "y": 205
+        },
+        {
+          "x": 440,
+          "y": 207
+        },
+        {
+          "x": 440,
+          "y": 210
+        },
+        {
+          "x": 440,
+          "y": 212
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538088
+  },
+  {
+    "id": "op_556t7wh5",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 214
+        },
+        {
+          "x": 440,
+          "y": 215
+        },
+        {
+          "x": 440,
+          "y": 217
+        },
+        {
+          "x": 440,
+          "y": 219
+        },
+        {
+          "x": 440,
+          "y": 222
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538170
+  },
+  {
+    "id": "op_3szz0rpq",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 224
+        },
+        {
+          "x": 440,
+          "y": 226
+        },
+        {
+          "x": 440,
+          "y": 228
+        },
+        {
+          "x": 440,
+          "y": 229
+        },
+        {
+          "x": 439,
+          "y": 230
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538253
+  },
+  {
+    "id": "op_pvel61qe",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 439,
+          "y": 231
+        },
+        {
+          "x": 439,
+          "y": 233
+        },
+        {
+          "x": 439,
+          "y": 234
+        },
+        {
+          "x": 439,
+          "y": 234
+        },
+        {
+          "x": 439,
+          "y": 236
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538336
+  },
+  {
+    "id": "op_xr3utumx",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 439,
+          "y": 237
+        },
+        {
+          "x": 439,
+          "y": 238
+        },
+        {
+          "x": 439,
+          "y": 239
+        },
+        {
+          "x": 440,
+          "y": 240
+        },
+        {
+          "x": 440,
+          "y": 242
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538421
+  },
+  {
+    "id": "op_l2gs1a4x",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 242
+        },
+        {
+          "x": 442,
+          "y": 245
+        },
+        {
+          "x": 442,
+          "y": 246
+        },
+        {
+          "x": 442,
+          "y": 247
+        },
+        {
+          "x": 442,
+          "y": 250
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538504
+  },
+  {
+    "id": "op_pp5qaoec",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 443,
+          "y": 250
+        },
+        {
+          "x": 443,
+          "y": 251
+        },
+        {
+          "x": 443,
+          "y": 253
+        },
+        {
+          "x": 444,
+          "y": 254
+        },
+        {
+          "x": 444,
+          "y": 254
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538586
+  },
+  {
+    "id": "op_q021zdmp",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 445,
+          "y": 256
+        },
+        {
+          "x": 445,
+          "y": 257
+        },
+        {
+          "x": 446,
+          "y": 258
+        },
+        {
+          "x": 446,
+          "y": 258
+        },
+        {
+          "x": 446,
+          "y": 259
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538703
+  },
+  {
+    "id": "op_tu458gx3",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 446,
+          "y": 261
+        },
+        {
+          "x": 446,
+          "y": 263
+        },
+        {
+          "x": 446,
+          "y": 266
+        },
+        {
+          "x": 446,
+          "y": 269
+        },
+        {
+          "x": 446,
+          "y": 275
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538787
+  },
+  {
+    "id": "op_qebn2zk0",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 447,
+          "y": 278
+        },
+        {
+          "x": 448,
+          "y": 285
+        },
+        {
+          "x": 448,
+          "y": 288
+        },
+        {
+          "x": 448,
+          "y": 293
+        },
+        {
+          "x": 448,
+          "y": 296
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538869
+  },
+  {
+    "id": "op_v82wn0re",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 448,
+          "y": 298
+        },
+        {
+          "x": 449,
+          "y": 304
+        },
+        {
+          "x": 449,
+          "y": 309
+        },
+        {
+          "x": 449,
+          "y": 312
+        },
+        {
+          "x": 450,
+          "y": 317
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582538952
+  },
+  {
+    "id": "op_dru2s331",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 450,
+          "y": 320
+        },
+        {
+          "x": 450,
+          "y": 324
+        },
+        {
+          "x": 450,
+          "y": 326
+        },
+        {
+          "x": 450,
+          "y": 329
+        },
+        {
+          "x": 450,
+          "y": 330
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539036
+  },
+  {
+    "id": "op_oft31yj2",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 450,
+          "y": 331
+        },
+        {
+          "x": 451,
+          "y": 332
+        },
+        {
+          "x": 452,
+          "y": 332
+        },
+        {
+          "x": 453,
+          "y": 332
+        },
+        {
+          "x": 454,
+          "y": 326
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539119
+  },
+  {
+    "id": "op_dti0ch6k",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 458,
+          "y": 312
+        },
+        {
+          "x": 459,
+          "y": 302
+        },
+        {
+          "x": 460,
+          "y": 293
+        },
+        {
+          "x": 461,
+          "y": 282
+        },
+        {
+          "x": 462,
+          "y": 274
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539203
+  },
+  {
+    "id": "op_4kd0n0sl",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 462,
+          "y": 272
+        },
+        {
+          "x": 463,
+          "y": 264
+        },
+        {
+          "x": 465,
+          "y": 259
+        },
+        {
+          "x": 466,
+          "y": 252
+        },
+        {
+          "x": 467,
+          "y": 247
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539285
+  },
+  {
+    "id": "op_ektayqjd",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 469,
+          "y": 244
+        },
+        {
+          "x": 470,
+          "y": 236
+        },
+        {
+          "x": 472,
+          "y": 231
+        },
+        {
+          "x": 475,
+          "y": 223
+        },
+        {
+          "x": 477,
+          "y": 219
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539369
+  },
+  {
+    "id": "op_pwfhrcub",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 479,
+          "y": 213
+        },
+        {
+          "x": 481,
+          "y": 210
+        },
+        {
+          "x": 482,
+          "y": 209
+        },
+        {
+          "x": 484,
+          "y": 206
+        },
+        {
+          "x": 486,
+          "y": 203
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539453
+  },
+  {
+    "id": "op_eprlin9r",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 488,
+          "y": 201
+        },
+        {
+          "x": 490,
+          "y": 199
+        },
+        {
+          "x": 490,
+          "y": 198
+        },
+        {
+          "x": 492,
+          "y": 196
+        },
+        {
+          "x": 494,
+          "y": 195
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539536
+  },
+  {
+    "id": "op_r7l2i23w",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 495,
+          "y": 194
+        },
+        {
+          "x": 497,
+          "y": 193
+        },
+        {
+          "x": 498,
+          "y": 192
+        },
+        {
+          "x": 498,
+          "y": 191
+        },
+        {
+          "x": 499,
+          "y": 191
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539652
+  },
+  {
+    "id": "op_qq8wk9ge",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 499,
+          "y": 192
+        },
+        {
+          "x": 499,
+          "y": 193
+        },
+        {
+          "x": 498,
+          "y": 197
+        },
+        {
+          "x": 493,
+          "y": 206
+        },
+        {
+          "x": 484,
+          "y": 222
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539735
+  },
+  {
+    "id": "op_ynh8s65m",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 470,
+          "y": 248
+        },
+        {
+          "x": 461,
+          "y": 258
+        },
+        {
+          "x": 456,
+          "y": 266
+        },
+        {
+          "x": 450,
+          "y": 273
+        },
+        {
+          "x": 450,
+          "y": 276
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539819
+  },
+  {
+    "id": "op_km5xm49f",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 447,
+          "y": 278
+        },
+        {
+          "x": 447,
+          "y": 278
+        },
+        {
+          "x": 446,
+          "y": 280
+        },
+        {
+          "x": 445,
+          "y": 280
+        },
+        {
+          "x": 443,
+          "y": 280
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582539919
+  },
+  {
+    "id": "op_7pha9j8v",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 438,
+          "y": 279
+        },
+        {
+          "x": 423,
+          "y": 249
+        },
+        {
+          "x": 410,
+          "y": 213
+        },
+        {
+          "x": 409,
+          "y": 182
+        },
+        {
+          "x": 412,
+          "y": 153
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540002
+  },
+  {
+    "id": "op_ue7p52b1",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 416,
+          "y": 140
+        },
+        {
+          "x": 422,
+          "y": 119
+        },
+        {
+          "x": 433,
+          "y": 94
+        },
+        {
+          "x": 439,
+          "y": 76
+        },
+        {
+          "x": 446,
+          "y": 53
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540086
+  },
+  {
+    "id": "op_sm5amhi4",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 448,
+          "y": 44
+        },
+        {
+          "x": 450,
+          "y": 34
+        },
+        {
+          "x": 452,
+          "y": 29
+        },
+        {
+          "x": 452,
+          "y": 22
+        },
+        {
+          "x": 452,
+          "y": 18
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540169
+  },
+  {
+    "id": "op_esohj22c",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 452,
+          "y": 15
+        },
+        {
+          "x": 452,
+          "y": 13
+        },
+        {
+          "x": 452,
+          "y": 12
+        },
+        {
+          "x": 452,
+          "y": 14
+        },
+        {
+          "x": 452,
+          "y": 36
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540285
+  },
+  {
+    "id": "op_lahd8ax6",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 450,
+          "y": 79
+        },
+        {
+          "x": 446,
+          "y": 133
+        },
+        {
+          "x": 441,
+          "y": 157
+        },
+        {
+          "x": 439,
+          "y": 174
+        },
+        {
+          "x": 436,
+          "y": 194
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540368
+  },
+  {
+    "id": "op_8784oycj",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 434,
+          "y": 202
+        },
+        {
+          "x": 432,
+          "y": 207
+        },
+        {
+          "x": 431,
+          "y": 210
+        },
+        {
+          "x": 432,
+          "y": 206
+        },
+        {
+          "x": 434,
+          "y": 191
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540501
+  },
+  {
+    "id": "op_7a4dvi3l",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 145
+        },
+        {
+          "x": 440,
+          "y": 122
+        },
+        {
+          "x": 440,
+          "y": 104
+        },
+        {
+          "x": 440,
+          "y": 87
+        },
+        {
+          "x": 440,
+          "y": 80
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540585
+  },
+  {
+    "id": "op_eu950bua",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 440,
+          "y": 75
+        },
+        {
+          "x": 439,
+          "y": 70
+        },
+        {
+          "x": 438,
+          "y": 66
+        },
+        {
+          "x": 438,
+          "y": 65
+        },
+        {
+          "x": 438,
+          "y": 63
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540701
+  },
+  {
+    "id": "op_thrsqci7",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 438,
+          "y": 66
+        },
+        {
+          "x": 435,
+          "y": 85
+        },
+        {
+          "x": 430,
+          "y": 110
+        },
+        {
+          "x": 422,
+          "y": 141
+        },
+        {
+          "x": 418,
+          "y": 154
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540784
+  },
+  {
+    "id": "op_sszraktw",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 414,
+          "y": 165
+        },
+        {
+          "x": 412,
+          "y": 168
+        },
+        {
+          "x": 411,
+          "y": 170
+        },
+        {
+          "x": 410,
+          "y": 170
+        },
+        {
+          "x": 410,
+          "y": 170
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540868
+  },
+  {
+    "id": "op_m9yuk832",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 411,
+          "y": 153
+        },
+        {
+          "x": 417,
+          "y": 126
+        },
+        {
+          "x": 422,
+          "y": 103
+        },
+        {
+          "x": 424,
+          "y": 92
+        },
+        {
+          "x": 424,
+          "y": 89
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582540951
+  },
+  {
+    "id": "op_516bx2fq",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 423,
+          "y": 88
+        },
+        {
+          "x": 416,
+          "y": 89
+        },
+        {
+          "x": 401,
+          "y": 94
+        },
+        {
+          "x": 361,
+          "y": 112
+        },
+        {
+          "x": 344,
+          "y": 121
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541034
+  },
+  {
+    "id": "op_aby1oapl",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 318,
+          "y": 134
+        },
+        {
+          "x": 310,
+          "y": 137
+        },
+        {
+          "x": 299,
+          "y": 142
+        },
+        {
+          "x": 295,
+          "y": 144
+        },
+        {
+          "x": 294,
+          "y": 144
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541151
+  },
+  {
+    "id": "op_30izc54e",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 297,
+          "y": 140
+        },
+        {
+          "x": 320,
+          "y": 119
+        },
+        {
+          "x": 334,
+          "y": 107
+        },
+        {
+          "x": 348,
+          "y": 96
+        },
+        {
+          "x": 350,
+          "y": 94
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541234
+  },
+  {
+    "id": "op_314zl6mo",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 352,
+          "y": 93
+        },
+        {
+          "x": 354,
+          "y": 92
+        },
+        {
+          "x": 342,
+          "y": 115
+        },
+        {
+          "x": 324,
+          "y": 146
+        },
+        {
+          "x": 306,
+          "y": 171
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541335
+  },
+  {
+    "id": "op_782ylymk",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 300,
+          "y": 181
+        },
+        {
+          "x": 296,
+          "y": 186
+        },
+        {
+          "x": 294,
+          "y": 188
+        },
+        {
+          "x": 294,
+          "y": 189
+        },
+        {
+          "x": 293,
+          "y": 190
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541434
+  },
+  {
+    "id": "op_2sd5y5nm",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 294,
+          "y": 187
+        },
+        {
+          "x": 298,
+          "y": 178
+        },
+        {
+          "x": 320,
+          "y": 141
+        },
+        {
+          "x": 330,
+          "y": 126
+        },
+        {
+          "x": 338,
+          "y": 115
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541518
+  },
+  {
+    "id": "op_qahp18dp",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 340,
+          "y": 113
+        },
+        {
+          "x": 342,
+          "y": 110
+        },
+        {
+          "x": 342,
+          "y": 110
+        },
+        {
+          "x": 340,
+          "y": 114
+        },
+        {
+          "x": 335,
+          "y": 120
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541634
+  },
+  {
+    "id": "op_74e6hznn",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 323,
+          "y": 131
+        },
+        {
+          "x": 318,
+          "y": 135
+        },
+        {
+          "x": 314,
+          "y": 137
+        },
+        {
+          "x": 310,
+          "y": 138
+        },
+        {
+          "x": 310,
+          "y": 135
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541717
+  },
+  {
+    "id": "op_afshly95",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 313,
+          "y": 125
+        },
+        {
+          "x": 323,
+          "y": 98
+        },
+        {
+          "x": 328,
+          "y": 90
+        },
+        {
+          "x": 330,
+          "y": 84
+        },
+        {
+          "x": 330,
+          "y": 83
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541801
+  },
+  {
+    "id": "op_m1nr627f",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 330,
+          "y": 82
+        },
+        {
+          "x": 328,
+          "y": 82
+        },
+        {
+          "x": 325,
+          "y": 83
+        },
+        {
+          "x": 318,
+          "y": 86
+        },
+        {
+          "x": 306,
+          "y": 90
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582541901
+  },
+  {
+    "id": "op_cvzo5069",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 302,
+          "y": 91
+        },
+        {
+          "x": 296,
+          "y": 92
+        },
+        {
+          "x": 291,
+          "y": 92
+        },
+        {
+          "x": 289,
+          "y": 92
+        },
+        {
+          "x": 289,
+          "y": 90
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542017
+  },
+  {
+    "id": "op_f9ng6b8r",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 289,
+          "y": 87
+        },
+        {
+          "x": 293,
+          "y": 80
+        },
+        {
+          "x": 305,
+          "y": 63
+        },
+        {
+          "x": 310,
+          "y": 55
+        },
+        {
+          "x": 317,
+          "y": 47
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542102
+  },
+  {
+    "id": "op_dvp73bp3",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 319,
+          "y": 44
+        },
+        {
+          "x": 321,
+          "y": 42
+        },
+        {
+          "x": 322,
+          "y": 41
+        },
+        {
+          "x": 322,
+          "y": 42
+        },
+        {
+          "x": 322,
+          "y": 42
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542251
+  },
+  {
+    "id": "op_y7g7n66x",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 320,
+          "y": 46
+        },
+        {
+          "x": 315,
+          "y": 50
+        },
+        {
+          "x": 306,
+          "y": 58
+        },
+        {
+          "x": 291,
+          "y": 73
+        },
+        {
+          "x": 284,
+          "y": 79
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542334
+  },
+  {
+    "id": "op_rttrnxkl",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 280,
+          "y": 82
+        },
+        {
+          "x": 278,
+          "y": 83
+        },
+        {
+          "x": 277,
+          "y": 85
+        },
+        {
+          "x": 279,
+          "y": 83
+        },
+        {
+          "x": 294,
+          "y": 76
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542434
+  },
+  {
+    "id": "op_gteoe4vw",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 305,
+          "y": 71
+        },
+        {
+          "x": 318,
+          "y": 64
+        },
+        {
+          "x": 323,
+          "y": 62
+        },
+        {
+          "x": 326,
+          "y": 60
+        },
+        {
+          "x": 329,
+          "y": 59
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542517
+  },
+  {
+    "id": "op_1u19h3jf",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 331,
+          "y": 58
+        },
+        {
+          "x": 332,
+          "y": 58
+        },
+        {
+          "x": 333,
+          "y": 58
+        },
+        {
+          "x": 334,
+          "y": 58
+        },
+        {
+          "x": 334,
+          "y": 58
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542616
+  },
+  {
+    "id": "op_h7z9n4ss",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 333,
+          "y": 59
+        },
+        {
+          "x": 332,
+          "y": 61
+        },
+        {
+          "x": 323,
+          "y": 70
+        },
+        {
+          "x": 313,
+          "y": 77
+        },
+        {
+          "x": 301,
+          "y": 87
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542699
+  },
+  {
+    "id": "op_nt6a4oao",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 294,
+          "y": 93
+        },
+        {
+          "x": 291,
+          "y": 94
+        },
+        {
+          "x": 290,
+          "y": 96
+        },
+        {
+          "x": 306,
+          "y": 86
+        },
+        {
+          "x": 332,
+          "y": 69
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542816
+  },
+  {
+    "id": "op_lbff84cb",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 365,
+          "y": 46
+        },
+        {
+          "x": 384,
+          "y": 34
+        },
+        {
+          "x": 389,
+          "y": 30
+        },
+        {
+          "x": 391,
+          "y": 28
+        },
+        {
+          "x": 392,
+          "y": 27
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582542933
+  },
+  {
+    "id": "op_ers86xhx",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 390,
+          "y": 29
+        },
+        {
+          "x": 376,
+          "y": 35
+        },
+        {
+          "x": 344,
+          "y": 53
+        },
+        {
+          "x": 292,
+          "y": 78
+        },
+        {
+          "x": 256,
+          "y": 98
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543016
+  },
+  {
+    "id": "op_gkk1ighm",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 225,
+          "y": 117
+        },
+        {
+          "x": 215,
+          "y": 122
+        },
+        {
+          "x": 209,
+          "y": 126
+        },
+        {
+          "x": 206,
+          "y": 128
+        },
+        {
+          "x": 204,
+          "y": 128
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543100
+  },
+  {
+    "id": "op_09ar7qm0",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 203,
+          "y": 128
+        },
+        {
+          "x": 203,
+          "y": 127
+        },
+        {
+          "x": 204,
+          "y": 126
+        },
+        {
+          "x": 224,
+          "y": 111
+        },
+        {
+          "x": 246,
+          "y": 98
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543183
+  },
+  {
+    "id": "op_8ipw73bc",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 278,
+          "y": 76
+        },
+        {
+          "x": 290,
+          "y": 68
+        },
+        {
+          "x": 296,
+          "y": 64
+        },
+        {
+          "x": 299,
+          "y": 62
+        },
+        {
+          "x": 300,
+          "y": 61
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543267
+  },
+  {
+    "id": "op_y75jz2xh",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 301,
+          "y": 61
+        },
+        {
+          "x": 298,
+          "y": 64
+        },
+        {
+          "x": 278,
+          "y": 82
+        },
+        {
+          "x": 252,
+          "y": 102
+        },
+        {
+          "x": 221,
+          "y": 130
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543366
+  },
+  {
+    "id": "op_vgxn1znw",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 207,
+          "y": 142
+        },
+        {
+          "x": 199,
+          "y": 148
+        },
+        {
+          "x": 197,
+          "y": 149
+        },
+        {
+          "x": 196,
+          "y": 150
+        },
+        {
+          "x": 195,
+          "y": 150
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543450
+  },
+  {
+    "id": "op_b62b6plw",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 195,
+          "y": 150
+        },
+        {
+          "x": 212,
+          "y": 130
+        },
+        {
+          "x": 238,
+          "y": 106
+        },
+        {
+          "x": 268,
+          "y": 78
+        },
+        {
+          "x": 277,
+          "y": 71
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543533
+  },
+  {
+    "id": "op_23auzssu",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 282,
+          "y": 66
+        },
+        {
+          "x": 285,
+          "y": 63
+        },
+        {
+          "x": 286,
+          "y": 62
+        },
+        {
+          "x": 282,
+          "y": 64
+        },
+        {
+          "x": 271,
+          "y": 72
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543649
+  },
+  {
+    "id": "op_d5oktfgk",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 259,
+          "y": 77
+        },
+        {
+          "x": 235,
+          "y": 90
+        },
+        {
+          "x": 220,
+          "y": 98
+        },
+        {
+          "x": 211,
+          "y": 104
+        },
+        {
+          "x": 203,
+          "y": 109
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543734
+  },
+  {
+    "id": "op_m0ol1s5j",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 202,
+          "y": 110
+        },
+        {
+          "x": 199,
+          "y": 110
+        },
+        {
+          "x": 205,
+          "y": 106
+        },
+        {
+          "x": 226,
+          "y": 94
+        },
+        {
+          "x": 255,
+          "y": 78
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543849
+  },
+  {
+    "id": "op_x0bug58p",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 267,
+          "y": 71
+        },
+        {
+          "x": 280,
+          "y": 64
+        },
+        {
+          "x": 282,
+          "y": 63
+        },
+        {
+          "x": 282,
+          "y": 63
+        },
+        {
+          "x": 282,
+          "y": 64
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582543965
+  },
+  {
+    "id": "op_dru574tx",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 272,
+          "y": 74
+        },
+        {
+          "x": 248,
+          "y": 97
+        },
+        {
+          "x": 204,
+          "y": 134
+        },
+        {
+          "x": 174,
+          "y": 158
+        },
+        {
+          "x": 146,
+          "y": 178
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544051
+  },
+  {
+    "id": "op_bwvxow4k",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 134,
+          "y": 186
+        },
+        {
+          "x": 126,
+          "y": 190
+        },
+        {
+          "x": 122,
+          "y": 192
+        },
+        {
+          "x": 122,
+          "y": 192
+        },
+        {
+          "x": 121,
+          "y": 192
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544132
+  },
+  {
+    "id": "op_i3cyuqmf",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 119,
+          "y": 191
+        },
+        {
+          "x": 119,
+          "y": 189
+        },
+        {
+          "x": 119,
+          "y": 182
+        },
+        {
+          "x": 119,
+          "y": 174
+        },
+        {
+          "x": 124,
+          "y": 155
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544216
+  },
+  {
+    "id": "op_e0i870ef",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 127,
+          "y": 142
+        },
+        {
+          "x": 132,
+          "y": 129
+        },
+        {
+          "x": 138,
+          "y": 118
+        },
+        {
+          "x": 141,
+          "y": 113
+        },
+        {
+          "x": 148,
+          "y": 105
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544299
+  },
+  {
+    "id": "op_lg3zb8yv",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 152,
+          "y": 101
+        },
+        {
+          "x": 155,
+          "y": 97
+        },
+        {
+          "x": 158,
+          "y": 95
+        },
+        {
+          "x": 158,
+          "y": 94
+        },
+        {
+          "x": 160,
+          "y": 94
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544398
+  },
+  {
+    "id": "op_awuxzvrq",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 161,
+          "y": 95
+        },
+        {
+          "x": 161,
+          "y": 96
+        },
+        {
+          "x": 161,
+          "y": 98
+        },
+        {
+          "x": 161,
+          "y": 100
+        },
+        {
+          "x": 161,
+          "y": 108
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544482
+  },
+  {
+    "id": "op_tax37jla",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 151,
+          "y": 156
+        },
+        {
+          "x": 143,
+          "y": 182
+        },
+        {
+          "x": 128,
+          "y": 214
+        },
+        {
+          "x": 120,
+          "y": 226
+        },
+        {
+          "x": 118,
+          "y": 230
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544566
+  },
+  {
+    "id": "op_ezodgd2k",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 116,
+          "y": 233
+        },
+        {
+          "x": 115,
+          "y": 233
+        },
+        {
+          "x": 115,
+          "y": 230
+        },
+        {
+          "x": 115,
+          "y": 224
+        },
+        {
+          "x": 119,
+          "y": 204
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544665
+  },
+  {
+    "id": "op_dklvkyu1",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 132,
+          "y": 162
+        },
+        {
+          "x": 155,
+          "y": 112
+        },
+        {
+          "x": 170,
+          "y": 87
+        },
+        {
+          "x": 183,
+          "y": 66
+        },
+        {
+          "x": 200,
+          "y": 47
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544748
+  },
+  {
+    "id": "op_38n7xc4z",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 207,
+          "y": 38
+        },
+        {
+          "x": 214,
+          "y": 30
+        },
+        {
+          "x": 218,
+          "y": 28
+        },
+        {
+          "x": 219,
+          "y": 26
+        },
+        {
+          "x": 222,
+          "y": 25
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544832
+  },
+  {
+    "id": "op_etaukdct",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 223,
+          "y": 24
+        },
+        {
+          "x": 225,
+          "y": 23
+        },
+        {
+          "x": 226,
+          "y": 22
+        },
+        {
+          "x": 227,
+          "y": 22
+        },
+        {
+          "x": 230,
+          "y": 21
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582544932
+  },
+  {
+    "id": "op_w4ehv7qy",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 231,
+          "y": 21
+        },
+        {
+          "x": 231,
+          "y": 24
+        },
+        {
+          "x": 231,
+          "y": 27
+        },
+        {
+          "x": 230,
+          "y": 34
+        },
+        {
+          "x": 227,
+          "y": 46
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582545032
+  },
+  {
+    "id": "op_hoxieoyy",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 224,
+          "y": 53
+        },
+        {
+          "x": 213,
+          "y": 69
+        },
+        {
+          "x": 203,
+          "y": 78
+        },
+        {
+          "x": 185,
+          "y": 83
+        },
+        {
+          "x": 173,
+          "y": 85
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582545115
+  },
+  {
+    "id": "op_8mzn40ue",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 164,
+          "y": 83
+        },
+        {
+          "x": 159,
+          "y": 82
+        },
+        {
+          "x": 155,
+          "y": 79
+        },
+        {
+          "x": 154,
+          "y": 78
+        },
+        {
+          "x": 155,
+          "y": 74
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582545198
+  },
+  {
+    "id": "op_dtbjrwae",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 174,
+          "y": 60
+        },
+        {
+          "x": 274,
+          "y": 19
+        },
+        {
+          "x": 327,
+          "y": 10
+        },
+        {
+          "x": 422,
+          "y": 5
+        },
+        {
+          "x": 489,
+          "y": 10
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582545281
+  },
+  {
+    "id": "op_ty1dwpiw",
+    "type": "erase",
+    "userId": "yX0Nofs6zAQLUf1uAAAF",
+    "payload": {
+      "points": [
+        {
+          "x": 561,
+          "y": 20
+        },
+        {
+          "x": 593,
+          "y": 28
+        },
+        {
+          "x": 627,
+          "y": 34
+        },
+        {
+          "x": 649,
+          "y": 38
+        }
+      ],
+      "color": "#000",
+      "width": 18
+    },
+    "serverTs": 1762582545331
+  }
+]
