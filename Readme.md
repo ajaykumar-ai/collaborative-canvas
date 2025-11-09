@@ -54,25 +54,8 @@ Storage: JSON file-based persistence (persist folder)
 4. Undo and Redo actions are reflected instantly across all clients.
 
 ## Project Structure
-collaborative-canvas/
-│
-├── client/
-│   ├── index.html        -> Main frontend layout and interface
-│   ├── style.css         -> Styles and theme
-│   ├── main.js           -> Controls UI and user interactions
-│   ├── canvas.js         -> Handles drawing, erasing, undo/redo
-│   └── websocket.js      -> Socket.IO connection logic
-│
-├── server/
-│   ├── server.js         -> Express + Socket.IO backend
-│   ├── rooms.js          -> Room and user tracking
-│   └── drawing-state.js  -> Operation history and persistence
-│
-├── persist/
-│   └── history-main.json -> Stored canvas state
-│
-├── package.json          -> Project metadata and dependencies
-└── README.md             -> Documentation file
+<img width="672" height="452" alt="image" src="https://github.com/user-attachments/assets/3cb45780-7307-4e12-9a4b-e7a9a2c880f3" />
+
 
 ## Known Limitations / Bugs
 - Undo and Redo affect all users globally instead of individually.
